@@ -1,0 +1,9 @@
+* {
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 375px;
+}
